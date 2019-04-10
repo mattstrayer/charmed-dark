@@ -1,0 +1,21 @@
+{
+    "name": "charmed-dark",
+    "displayName": "Charmed Dark",
+    "description": "A charming and colorful dark theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Charmed Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Charmed Dark-color-theme.json"
+            }
+        ]
+    }
+}
