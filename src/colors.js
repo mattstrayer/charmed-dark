@@ -1,0 +1,35 @@
+let colors = {
+    // Blacks & Grays & Whites
+    black: "#000000",
+    ebonyClay: "#282d3d",
+    shark: "#1f1f28",
+    mako: "#404249",
+    gray: "#7f7f7f",
+    lightGray: "#8e8e8e",
+    white: "#ffffff",
+    // Blues & Greens
+    cornflowerBlue: "#675eff",
+    blue: "#0000ff",
+    royalBlue: "#4949f6",
+    wildBlueYonder: "#707cb3",
+    eastBay: "#474d7c",
+    fiord: "#4d5479",
+    malibu: "#82aaff",
+    anakiwa: "#89ddff",
+    logan: "#a5accd",
+    monteCarlo: "#80cac3",
+    // Purples & Pinks
+    heliotrope: "#a382ff",
+    baliHai: "#8f93b9",
+    bilobaFlower: "#c691e9",
+    bouquet: "#ba80b3",
+    lavender: "#b075db",
+    purpleHeart: "#6348cb",
+    // Oranges & Yellows
+    sunsetOrange: "#f64949",
+    ronchi: "#efb659",
+    honeysuckle: "#edfb79",
+    crusta: "#f97f29",
+    burntSienna: "#ef5e66",
+    supernova: "#ffcc00",
+}
