@@ -33,3 +33,66 @@ let colors = {
     burntSienna: "#ef5e66",
     supernova: "#ffcc00",
 }
+
+
+let c = {
+
+    // Purples / Pinks
+    '#c792eaff',
+    '#af52ffff',
+    '#6348ccff',
+    '#b175dcff',
+    '#a482ffff',
+    '#aa0d91ff',
+    '#484d7dff',
+    '#585da6ff',
+    '#a5accdff',
+    '#8f93b9ff',
+
+    // Red
+    '#f74a4aff',
+    '#f05e65ff',
+    '#f05e66ff',
+
+    // Blue
+    '#675fffff',
+    '#4a4af7ff',
+    '#82aaffff',
+    '#89ddffff',
+    '#717cb450',
+    '#4e5579ff',
+
+    // Yellow / Orange
+    '#ecfc7aff',
+    '#eefc7aff',
+    '#ffcc00ff',
+    '#efb759ff',
+    '#fa802aff',
+
+    // Green
+    '#45ff69ff',
+    '#80cbc4ff',
+
+
+    // White
+    '#ffffffff',
+    '#ffffffb3',
+    '#ffffff80',
+
+    // Gray
+    '#414249ff',
+    '#8e8e8eff',
+    '#808080ff',
+
+    '#a6accdff',
+
+    // Black
+
+    '#292d3eff',
+    '#1f2029ff',
+    '#1e1f29ff',
+    '#00000050',
+
+
+
+}
