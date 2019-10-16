@@ -1,4 +1,4 @@
-let colors = {
+var colors = {
 
     Logan: '#a5accdff',
     BilobaFlower: '#c792eaff',
@@ -31,3 +31,4 @@ let colors = {
     BaliHai: '#8f93b9ff',
     MonteCarlo: '#80cbc4ff'
 }
+export default colors

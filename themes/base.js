@@ -1,13 +1,15 @@
-{
+import colors from "../src/colors"
+
+let base = {
     "name": "Charmed Dark",
     "type": "dark",
     "colors": {
-        "editor.background": "#1f1f28",
-        "editor.foreground": "#8f93b9",
-        "activityBarBadge.background": "#1f1f28",
-        "sideBarTitle.foreground": "#8f93b9",
-        "sideBar.background": "#1f1f28",
-        "sideBar.foreground": "#8f93b9"
+        "editor.background": colors.EbonyClay,
+        "editor.foreground": colors.Logan,
+        "activityBarBadge.background": colors.EbonyClay,
+        "sideBarTitle.foreground": colors.Logan,
+        "sideBar.background": colors.EbonyClay,
+        "sideBar.foreground": colors.Logan
     },
     "tokenColors": [
         {
@@ -18,7 +20,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#484d7dff"
+                "foreground": colors.EastBay
             }
         },
         {
@@ -28,7 +30,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#82aaff"
+                "foreground": colors.Honeysuckle
             }
         },
         {
@@ -47,7 +49,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#FF5370"
+                "foreground": colors.SunsetOrange
             }
         },
         {
@@ -58,7 +60,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": colors.Lavender
             }
         },
         {
