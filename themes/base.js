@@ -1,6 +1,6 @@
-import colors from "../src/colors"
+const colors = require("../src/colors")
 
-let base = {
+module.exports = {
     "name": "Charmed Dark",
     "type": "dark",
     "colors": {
@@ -30,7 +30,7 @@ let base = {
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": colors.Honeysuckle
+                "foreground": colors.Malibu
             }
         },
         {
@@ -88,7 +88,7 @@ let base = {
                 "punctuation.section.embedded",
             ],
             "settings": {
-                "foreground": "#8f93b9"
+                "foreground": colors.Crusta
             }
         },
         {
@@ -147,7 +147,7 @@ let base = {
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#8f93b9"
+                "foreground": colors.Carnation
             }
         },
         {
@@ -162,7 +162,7 @@ let base = {
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#C3E88D"
+                "foreground": colors.Anakiwa
             }
         },
         {
