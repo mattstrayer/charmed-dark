@@ -1,5 +1,4 @@
-var colors = {
-
+module.exports = {
     Logan: '#a5accdff',
     BilobaFlower: '#c792eaff',
     EbonyClay: '#292d3eff',
@@ -22,7 +21,7 @@ var colors = {
     Anakiwa: '#89ddffff',
     EastBay: '#484d7dff',
     Scampi: '#585da6ff',
-    Crusta: '#fa802aff',
+    Crusta: '#FC9336ff',
     Carnation: '#f05e66ff',
     ScreaminGreen: '#45ff69ff',
     Honeysuckle: '#eefc7aff',
@@ -31,4 +30,3 @@ var colors = {
     BaliHai: '#8f93b9ff',
     MonteCarlo: '#80cbc4ff'
 }
-export default colors
