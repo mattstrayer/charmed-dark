@@ -20,7 +20,7 @@ function RGBAToHexA(r, g, b, a) {
     return "#" + r + g + b + a;
 }
 
-fs.readFile('./xcode/CharmedDark.xccolortheme', 'utf8', function (err, data) {
+fs.readFile('xcode/CharmedDark.xccolortheme', 'utf8', function (err, data) {
     if (err) {
         return console.log(err);
     }
