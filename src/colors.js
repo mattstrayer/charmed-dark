@@ -1,5 +1,5 @@
 module.exports = {
-    Logan: '#a5accdff',
+    Logan: '#A0A6C4FF',
     BilobaFlower: '#c792eaff',
     EbonyClay: '#292d3eff',
     Supernova: '#ffcc00ff',
@@ -18,7 +18,7 @@ module.exports = {
     Black: '#00000050',
     BlueBayoux: '#4e5579ff',
     Malibu: '#82aaffff',
-    Anakiwa: '#89ddffff',
+    Anakiwa: '#99E3FFFF',
     EastBay: '#484d7dff',
     Scampi: '#585da6ff',
     Crusta: '#FC9336ff',
